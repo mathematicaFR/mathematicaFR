@@ -1,7 +1,7 @@
 - 👋 Bonjour, je suis @mathematicaFR
 - 👀 Les mathématiques et Python
 - 🌱 J'apprends 
-- 📫 Consultez prepas.org
+- 📫 Consultez 
 
 <!---
 mathematicaFR/mathematicaFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
